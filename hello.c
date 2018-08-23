@@ -11,6 +11,7 @@
 11 int main(int argc, char **argv) {
 12
 13 printf("Jason Hudgens Mechanical Engineer!\n");
-14
+14 printf("Nathan Sabin, Computer Science\n");
+
 15 return 0;
 }
